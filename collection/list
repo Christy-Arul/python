@@ -1,0 +1,12 @@
+a=[34,4,20,45,67,8,12,14]
+b=[38,22,18]
+print("items in second position is",a[2])
+print("total number of items is",len(a))
+print("fourth to sixth elememt in list are",a[3:6])
+print("first three items in list are",a[:3])
+print("last three items in list are",a[5:])
+print("last item of list is",a[-1])
+print("element in list are",a)
+c=a+b
+print("concatenation of two list is",c)
+print("middle element in the list",a[3:-3])
